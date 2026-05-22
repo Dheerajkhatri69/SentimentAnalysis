@@ -3,6 +3,27 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+
+  /* Sentiment Colors */
+  --sentiment-positive: #4B8763;
+  --sentiment-negative: #c0392b;
+  --sentiment-neutral: #7a8a9a;
+
+  /* Background Colors */
+  --bg-primary: #F0E5CF;
+  --bg-secondary: #F7F6F2;
+  --bg-hover: #F0E5CF80;
+
+  /* Text Colors */
+  --text-primary: #2a3a52;
+  --text-secondary: #7a8a9a;
+  --text-muted: #aaa;
+  --text-label: #C8C6C6;
+
+  /* Border & Accent Colors */
+  --border-default: #C8C6C6;
+  --accent-primary: #4B6587;
+  --chart-bar-primary: #4B6587;
 }
 
 @theme inline {
